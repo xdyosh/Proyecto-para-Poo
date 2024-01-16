@@ -93,3 +93,5 @@ if __name__ == '__main__':
 ```
 
 Finalmente, se crea una instancia de la clase `YouTubeApp` y se inicia el bucle principal de la interfaz gráfica (`root.mainloop()`). Esto permite que la interfaz gráfica esté en ejecución y responda a las interacciones del usuario.
+
+![Vista previa](https://raw.githubusercontent.com/xdyosh/Proyecto-para-Poo-Visualizador-de-Views/master/testaplicacion.png)
